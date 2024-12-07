@@ -14,7 +14,7 @@ This project uses machine learning to predict a person’s weight based on vario
 
 ```bash
 
-git clone https://github.com/ivykogo/Weight_prediction-model.git
+git clone https://github.com/ivykogo/Weight_prediction_model.git
 
 ```
 
